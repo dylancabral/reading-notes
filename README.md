@@ -10,15 +10,6 @@ Growth mindest is being able to acknowledge where you are now and where you can 
 * *Learning is a forever process, it doesnt end until you do*
 * *~~I DONT KNOW HOW TO USE MARKDOWN~~*
 
-
-pwd - where am i?
-ls- list the contents in the directory of the current location
-ls -a' to show hidden files
-mkdir - make directory (space then name of folder case sensative)
-cd- change directory (name of folder) or hit tab for last folder
-touch- create new file (.typeoffile)
-cd.. - take me back one level
-code .(vs code will open in whatever directory is selected)
-
+## About the author 
 Link to my portfolio 
 [Dylan's Portfolio](https://github.com/dylancabral)
