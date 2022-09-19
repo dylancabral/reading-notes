@@ -1,5 +1,5 @@
 # Reading Journal Code 102
-## This is a Journal of my Learning in CF102
+This is a Journal of my Learning in CF102
 
 ## What is a Growth Mindset?
 Growth mindest is being able to acknowledge where you are now and where you can be arent a married concept. With a significant amount of time, effort, and a postive mental attitude, you can expand far beyone where your knowledge sits now. the same way that you learned how to walk, with time and attention all things are possible when you apply what you learn consistently. What you cant do, you just cant do yet, keep trying.
