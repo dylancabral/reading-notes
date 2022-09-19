@@ -11,7 +11,8 @@ Growth mindest is being able to acknowledge where you are now and where you can 
 * *~~I DONT KNOW HOW TO USE MARKDOWN~~*
 
 
-
+pwd - where am i?
+ls- list the contents in the directory of the current location
 
 Link to my portfolio 
-[Dylans's Portfolio](github.com/dylancabral)
+[Dylans's Portfolio](https://github.com/dylancabr)
