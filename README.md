@@ -14,4 +14,4 @@ Growth mindest is being able to acknowledge where you are now and where you can 
 
 
 Link to my portfolio 
-github.com/dylancabral
+[Dylans's Portfolio](github.com/dylancabral)
