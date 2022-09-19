@@ -21,4 +21,4 @@ cd.. - take me back one level
 code .(vs code will open in whatever directory is selected)
 
 Link to my portfolio 
-[Dylans's Portfolio](https://github.com/dylancabr)
+[Dylans's Portfolio](https://github.com/dylancabral)
