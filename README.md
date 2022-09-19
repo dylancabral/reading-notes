@@ -9,4 +9,4 @@ My reading notes journal for Code Fellows 102
 
 
 Link to my portfolio 
-github.com/dylanwhiskeyalpha
+github.com/dylancabral
