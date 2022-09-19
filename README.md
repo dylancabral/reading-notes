@@ -16,4 +16,4 @@ My name is Dylan Cabral, I have been interested in technology since my dad broug
 <br>
 <br>
 Link to my portfolio 
-[Dylan's Portfolio](https://github.com/dylancabral)
+[For More](https://github.com/dylancabral)
