@@ -11,5 +11,7 @@ Growth mindest is being able to acknowledge where you are now and where you can 
 * *~~I DONT KNOW HOW TO USE MARKDOWN~~*
 
 ## About the author 
+---
+My name is Dylan Cabral, I have been interested in technology since my dad brought home a sega genesis.I am excited to begin this journey and finally develop some skills so that i can apply my creaticity and attitude towards problems in code form. I hope that one year from now i have begun a career in softaware development and That I am working in a team of excited individuals, having fun and being nerds.
 Link to my portfolio 
 [Dylan's Portfolio](https://github.com/dylancabral)
