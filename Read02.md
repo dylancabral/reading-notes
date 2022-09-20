@@ -42,5 +42,6 @@ to discover them on your own."
 - [Sublime Text](https://www.sublimetext.com/)
 
 ---
-UNBUTU CHEAT SHEET 
+UNBUTU CHEAT SHEET
+---
 ![cheatsheet](https://user-images.githubusercontent.com/113924687/191155369-abb9ef54-e8d7-4007-be13-18098fdb95df.jpg)
