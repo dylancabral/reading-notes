@@ -43,4 +43,4 @@ to discover them on your own."
 
 ---
 UNBUTU CHEAT SHEET 
-[Ubuntu-Reference.pdf](https://github.com/dylancabral/reading-notes/files/9603553/Ubuntu-Reference.pdf)
+![cheatsheet](https://user-images.githubusercontent.com/113924687/191155369-abb9ef54-e8d7-4007-be13-18098fdb95df.jpg)
