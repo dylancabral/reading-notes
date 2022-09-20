@@ -8,5 +8,3 @@ Growth mindest is being able to acknowledge where you are now and where you can 
 * *Something being tough is usually is a major milestone in the journey to a reward*
 * *Learning is a forever process, it doesnt end until you do*
 * *~~I DONT KNOW HOW TO USE MARKDOWN~~*
-
-## About the author
