@@ -42,3 +42,5 @@ to discover them on your own."
 - [Sublime Text](https://www.sublimetext.com/)
 
 ---
+UNBUTU CHEAT SHEET 
+[Ubuntu-Reference.pdf](https://github.com/dylancabral/reading-notes/files/9603553/Ubuntu-Reference.pdf)
