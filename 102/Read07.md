@@ -56,5 +56,29 @@ A JavaScript function is executed when "something" invokes it (calls it).
 
 [functions](images/functions.jpg)
 
+## arithmetic operators
+Operator	Description
++	Addition
+-	Subtraction
+*	Multiplication
+**	Exponentiation (ES2016)
+/	Division
+%	Modulus (Division Remainder)
+++	Increment
+--	Decrement
 
+## JavaScript Assignment Operators
+
+Operator	Example	Same As
+=	x = y	x = y
++=	x += y	x = x + y
+-=	x -= y	x = x - y
+*=	x *= y	x = x * y
+/=	x /= y	x = x / y
+%=	x %= y	x = x % y
+**=	x **= y	x = x ** y
+The addition assignment operator (+=) adds a value to a variable.
+
+
+The addition assignment operator (+=) adds a value to a variable.
 [Back to Home](../README.md) 
