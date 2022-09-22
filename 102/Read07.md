@@ -54,7 +54,7 @@ A JavaScript function is executed when "something" invokes it (calls it).
 ---
 >Accessing a function without () will return the function object instead of the function result.
 
-[functions](images/functions.jpg)
+![functions](images/functions.jpg)
 
 ## arithmetic operators
 Operator	Description
