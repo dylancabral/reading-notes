@@ -2,12 +2,18 @@
 todays reading is important as it impliments the basics of everything that comes in to play during this class and web development
 
 ## How the Web Works
-
+*Peom*
+---
 compueters connected, clients and servers
+---
 assets are everything
+---
 exchange hands
+---
 http changes hands with tcp
+---
 dns recieves the change
+---
 ![how the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 ## How are html css and javascript parsed
