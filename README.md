@@ -1,4 +1,4 @@
-# Reading Journal Code 102
+# Reading Journal Code 201
 
 This is a Journal for Reading assignments in CF102
 
