@@ -1,5 +1,8 @@
 ## Componentn based architecture
 
+## Why Is this Important
+when deploying websites a library can be used to speed the process and add more functionality to a website with less time, this is important as when in the field im sure we wont be given 5 days to write a basic website, this allows us to use industry tools and pre debugged librarys to innact significant overhaul to our product in a streamlined manner
+
 ## What is a “component”?
 > A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
 
@@ -45,3 +48,6 @@
 3. Finally, render the Props Data
 ## What is the flow of props?
 it lows from the childdown to the parent only defined attributes from the parent can display changes to the children the information must be privy to them like santa
+
+## Things I want to know more about
+how much you can really do with component architecture, im excited for the moment in the future this feels like a known skill
