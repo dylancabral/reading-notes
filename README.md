@@ -1,27 +1,11 @@
-# Reading Journal Code 102
+# Reading Notes
 
-This is a Journal for Reading assignments in CF102
+> *This is the homepage of my reading notes repository where i will be updating all of my learnings from my different coding classes in my journey ate CodeFellows*
 
----
+## Code 102 - Intro to Software Development
 
-## About me
+## Code 201 - Foundations of Software Development
 
-My name is Dylan Cabral, I have been interested in technology since my dad brought home a sega genesis.I am excited to begin this journey and finally develop some skills so that i can apply my creaticity and attitude towards problems in code form. I hope that one year from now i have begun a career in softaware development and That I am working in a team of excited individuals, having fun and being nerds.
+## Code 301 - Intermediate Software Development
 
----
----
-
-## To More
-
-[Dylans's Portfolio](https://github.com/dylancabral)
-
-## Table Of Contents
-
-* [Class 1 Notes](102/Read01.md)
-* [Class 2 Notes](102/Read02.md)
-* [CLass 3 Notes](102/Read03.md)
-* [CLass 4 Notes](102/Read04.md)
-* [CLass 5 Notes](102/Read05.md)
-* [CLass 6 Notes](102/Read06.md)
-* [CLass 7 Notes](102/Read07.md)
-* [CLass 8 Notes](102/Read08.md)
+## Code 401 - Advanced Software Development
