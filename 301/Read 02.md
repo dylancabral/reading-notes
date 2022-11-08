@@ -16,8 +16,13 @@ This mothed is invoked immediatley after a component is mounted, network request
 
 
 ## What types of things can you pass in the props?
+counters,display titles and subtititles,
 
 
 ## What is the big difference between props and state?
+state is something insides of a component, props are passed from the outside in where state is inside
 ## When do we re-render our application?
+when the state is changed
+
 ## What are some examples of things that we could store in state?
+counter, when you want to re render you need to store in state like something that changes based on user input, form, 
