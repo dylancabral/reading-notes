@@ -1,4 +1,4 @@
-# ** Who is Roy Fielding?**
+# **Who is Roy Fielding?**
 > He helped write the first web servers, that sent documents across the internet… and then he did a ton of research explaining why the web works the way it does. His name is on the specification for the protocol that is used to get pages from servers to your browser.
 
 ## **Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?** 
