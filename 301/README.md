@@ -4,3 +4,5 @@
 [Class 2](Read02.md)
 
 [Class 6](Read06.md)
+
+[Class 7](Read07.md)
