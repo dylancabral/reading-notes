@@ -10,3 +10,5 @@
 [Class 8](Read08.md)
 
 [Class 09](Read09.md)
+
+[Class 10](Read10.md)
