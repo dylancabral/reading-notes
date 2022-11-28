@@ -25,5 +25,8 @@ acess the api
 
 query the database 
 
+## what i want to know more about
+I think there are mountains of things that i need to know about and i am excited to dive into all of them, watching that speed run was fun because its showing that in practice things that seem so outside the realm of possbility can be objects of practice and play in the future. 
+
 
 
