@@ -37,4 +37,12 @@ This is a Prime Example of this industry, we dont know how to go on or how to de
 
 at the moment I dont need to know more I just want to embody that grit in this course and excel.
 
+## Measuring Emotional intellegence
+
+I think I am Incredibly emotionaly intellegent person, i dont know if it stems from childhood or therapy but Its been one of my most important character traits that allows me to succeed, building communities and being a good friend others as the forefront has allowed me to be successful in many ways, I measure Tone body language, am situationaly aware, and make sure to stand with those who feel underepresented or out of place hoping to help them find a home in any situation
+
+## Measuring your Biases
+
+I grew up all over the place from incredibly affluent places to that were ravaged by low income and lack of support, I like all have biases but i try to work on those as often as they present themselves, wheather it be in learning from people of color, those in the Queer community or Those who just have different economical or cultural backgrounds thatn myself, I think i excell in friendliness and making everyone feel welcomed by me but I understand there is many things i can not comprehend and hope that those biasis can be eroded in a culturaly diverse workplace
+
 [Table Of Contents](../README.md)
