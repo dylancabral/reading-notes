@@ -6,3 +6,4 @@
 
 3. [Data Structures and Algorithims Reading](DataStructures.md)
 
+4. [Engineering Readings](engineeringReadings.md)
