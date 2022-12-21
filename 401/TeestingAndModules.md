@@ -47,8 +47,11 @@ I just want to see more python code written, it is confusing, i dont understand 
 
 ---
 [In Tests We Trust - TDD with Python](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932)
+
 [If name equals main](https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/)
+
 [Recursion](https://www.geeksforgeeks.org/recursion/)
+
 [What on Earth is Recursion](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
 
 ---
