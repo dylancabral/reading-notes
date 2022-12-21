@@ -7,3 +7,5 @@
 3. [Data Structures and Algorithims Reading](DataStructures.md)
 
 4. [Engineering Readings](engineeringReadings.md)
+
+5. [Testing and Modules](TestingAndModules.md)
