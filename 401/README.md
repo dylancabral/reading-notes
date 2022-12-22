@@ -9,3 +9,5 @@
 4. [Engineering Readings](engineeringReadings.md)
 
 5. [Testing and Modules](TestingAndModules.md)
+
+6. [File IO and](fileIOandExceptions.md)
