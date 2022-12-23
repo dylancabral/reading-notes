@@ -57,7 +57,7 @@ The try and except block in Python is used to catch and handle exceptions. Pytho
 
 when syntactically correct code runs into an error, Python will throw an exception error. This exception error will crash the program if it is unhandled. The except clause determines how your program responds to exceptions.
 
-![take aways from exceptions summmarized](takeaways.jpg)
+![take aways from exceptions summmarized](./images/takeaways.jpg)
 
 ## Things i want to know more about
 

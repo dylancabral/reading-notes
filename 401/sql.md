@@ -2,4 +2,4 @@
 
 havent finished 
 
-![sql 1](sql.PNG)
+![sql 1](./images/sql.PNG)
