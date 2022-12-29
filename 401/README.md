@@ -13,4 +13,7 @@
 6. [File IO and](fileIOandExceptions.md)
 
 7. [Object oriented programming](objectOriented.md)
-8.[Linked Lists](LinkedList.md)
+
+8. [Linked Lists](LinkedList.md)
+
+9. [Ten Thousand 2](TenThousand2.md)
