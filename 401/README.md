@@ -1,16 +1,21 @@
 # 401 Table Of Contents
 
-1. [Practice In Terminal](PracticeInTerminal.md)
+ [Practice In Terminal](PracticeInTerminal.md)
 
-2. [SQL Reading](sql.md)
+ [SQL Reading](sql.md)
 
-3. [Data Structures and Algorithims Reading](DataStructures.md)
+1. [Data Structures and Algorithims Reading](DataStructures.md)
 
-4. [Engineering Readings](engineeringReadings.md)
+2. [Engineering Readings](engineeringReadings.md)
 
-5. [Testing and Modules](TestingAndModules.md)
+3. [Testing and Modules](TestingAndModules.md)
 
-6. [File IO and](fileIOandExceptions.md)
+4. [File IO and](fileIOandExceptions.md)
 
-7. [Object oriented programming](objectOriented.md)
-8.[Linked Lists](LinkedList.md)
+5. [Object oriented programming](objectOriented.md)
+
+6. [Linked Lists](LinkedList.md)
+
+7. []()
+
+8. [Ten Thousand 3](TenThousand3.md)
