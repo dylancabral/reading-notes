@@ -55,7 +55,7 @@ List the contents of a directory, including hidden files.
 
 You can use man -k<> to search keywords and commands so that you can get further use out of your comman line
 
-![what we learned about terminal manual](./images/manual.PNG)
+![what we learned about terminal manual](/images/manual.PNG)
 
 ## File Manipulation - How to make, remove, rename, copy and move files and directories.
 
@@ -79,7 +79,7 @@ rm will remove a file
 
 rm -r will remove all children from a directory as well
 
-![file manipulation rules](manipulation.PNG)
+![file manipulation rules](/images/manipulation.PNG)
 
 ## Cheat Sheet - A quick reference for the main points covered in this tutorial.
 

@@ -18,7 +18,7 @@ It is important because what we do is hard, this is incredibly taxing and techni
 
 ## The Keys to Deliberate Practice
 
-![Keys](deliberate.PNG)
+![Keys](/images/deliberate.PNG)
 
 ## Not Yet
 

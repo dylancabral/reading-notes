@@ -18,4 +18,15 @@
 
 9. [Ten Thousand 2](TenThousand2.md)
 
+10. Excused
+
 11. [Data Analysis](DataAnalysis.md)
+
+12. [Pandas](Pandas12.md)
+
+13. [Liner Regressions](LinearRegressions13.md)
+
+14. [Data Visualization](DataVIsualization14.md)
+
+15. [Trees](Trees15.md)
+

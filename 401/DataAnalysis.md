@@ -20,7 +20,7 @@ With NumPy, we work with multidimensional arrays. 2-dimensional arrays. A 2-dime
 
 
 ## video
-jupyter proiveds fuill support for system shells, its able to take in almost all popular image formats, its very optomzed well and can interpret a lot of different languages and types of input and allow you to woerk easily with data and code and documenting all next to eachother. uses a lot of short and nice keyboard shortcuts to manipulate
+jupyter provides full support for system shells, its able to take in almost all popular image formats, its very optomzed well and can interpret a lot of different languages and types of input and allow you to woerk easily with data and code and documenting all next to eachother. uses a lot of short and nice keyboard shortcuts to manipulate
 
 ![Numpy example](./images/numpyExample.png)
 

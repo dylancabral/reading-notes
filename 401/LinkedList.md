@@ -112,7 +112,7 @@ Inserting at the end takes way more space and time because you have to travel th
 
 If your list is all about adding and not about searching, linked lists are a great method
 
-![Linked lists and arrays](./images/Linked.jpg)
+![Linked lists and arrays](/images/Linked.jpg)
 ## Resources
 [Big O: Analysis of algoritm effeciency](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html)
 
