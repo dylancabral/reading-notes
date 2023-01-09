@@ -29,7 +29,7 @@ The __init__() function, is a special function that is called when the class is 
 
 how to cache results [Caching Results](https://realpython.com/python-memcache-efficient-caching/)
 
-![recursion diagram](./images/recursiondiagram.jpg)
+![recursion diagram](/images/recursiondiagram.jpg)
 
 ## The algorithm for recursive present delivery implemented in Python:
 
@@ -86,7 +86,7 @@ def factorial_recursive(n):
 A data structure is recursive if it can be deﬁned in terms of a smaller version of itself. A list is an example of a recursive data structure
 
 If a output ca
-![Recursive](./images/recursively.jpg)
+![Recursive](/images/recursively.jpg)
 
 ## Pytest fixes and coverage
 
