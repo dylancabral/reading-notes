@@ -111,7 +111,7 @@ Traditionally, breadth first traversal uses a queue (instead of the call stack v
 
 If Nodes are able have more than 2 child nodes in the tree, we call the tree that contains them a K-ary Tree. Unlike Binary which refers to a maximum of 2
 
-![Binary Tree](/images/BinaryTrees.png)
+![Binary Tree](./images/BinaryTrees.png)
 
 Traversing a K-ary tree requires a similar approach to the breadth first traversal. We are still pushing nodes into a queue, but we are now moving down a list of children of length k, instead of checking for the presence of a left and a right child.
 
@@ -154,7 +154,7 @@ In the event you would like to have a node placed in a specific location, you ne
 
 BST's are a Type of tree that does have structure unlike a Regluar BS a node will fit the first place it finds space, in a node where all its children are not filled. in a  BST the values less than the root will be aligned to the left and the values greater will be to the right of the root
 
-![Binary Search Tree Format](/images/BST.png)
+![Binary Search Tree Format](./images/BST.png)
 
 > Searching a BST can be done quickly, because all you do is compare the node you are searching for against the root of the tree or sub-tree. If the value is smaller, you only traverse the left side. If the value is larger, you only traverse the right side.
 
