@@ -172,3 +172,5 @@ The Big O time complexity of a Binary Search Tree’s insertion and search opera
 [Trees Reading](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
 
 ## Things i want to know more about
+
+This was a every detailed reading, i hope that soon the psuedo code makes more sense in the translation to actual runnable code but I am happy with the reading, i need more time to practice 
