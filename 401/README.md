@@ -34,5 +34,7 @@
 
 19. [Automation](Automation19.md)
 
-28. [Django CRUD and Forms]()
+28. [Django CRUD and Forms](DjangoCrud28.md)
+
+29. [Django Custom User Model](djangoCustomUserModel29.md)
 
